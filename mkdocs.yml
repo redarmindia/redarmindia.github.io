@@ -1,6 +1,5 @@
 site_name: Raghu ( RaNa )
 site_url : https://raghu-rana.gitlab.io
-site_favicon: favicon.ico
 theme:
   name: null
   custom_dir: 'cinder'
