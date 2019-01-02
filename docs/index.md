@@ -1,10 +1,6 @@
-# Welcome to MkDocs
+# About me
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+My name is [Raghu](https://in.linkedin.com/in/raghunathkumar) ([/rʌgu:/](https://bitbucket.org/saras152/phdtopic/downloads/0_Raghu.wav)), a.k.a. RaNa ([/rʌ:a-na/](https://bitbucket.org/saras152/phdtopic/downloads/1_RaNa.wav)). I graduated from [IIT Madras](http://www.iitm.ac.in/) in 2007 with a [dual degree](https://www.iitm.ac.in/academic-programmes) (B.Tech. + M.Tech.) in [Electrical Engineering](http://www.ee.iitm.ac.in/). 
 
 ## Commands
 
