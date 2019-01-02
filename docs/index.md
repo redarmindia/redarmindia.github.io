@@ -30,9 +30,32 @@ I worked on [Anti-Lock Braking System](https://en.wikipedia.org/wiki/Anti-lock_b
 ### Motor Controller
 I supported the motor controller team in developing their Next Generation Low Cost Motor Controller (NGLCMC). Created Matlab models of Sine and Space Vector PWM for MBD and simulations. Contributed to hardware development of gate driver circuits and PCB development. Participated in board bring-up and functional testing of the hardware.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Computer Skills
+## Languages
+* Very comfortable with C for modular embedded applications to implement complex control algorithms and write device drivers in bare metal code.
+    * Ported the complete BMS project code from old to new µC of new manufacturer in less than 5 days.
+* Very comfortable with scripting in Scilab, MATLAB and Python
+    * Developed my [design automation and optimization tool](https://motorrlib.gitlab.io/) from scratch in these environments.
+* Comfortable with vb.net programming for implementing logic and creating GUI applications
+    * Built applications for diagnostics during the ABS project development, and Data Acquisition tool development.
+## Micro-controller platforms
+* Worked with the following micro-controller platforms - using both [bare metal](https://en.wikipedia.org/wiki/Bare_machine) programming and [HAL](https://en.wikipedia.org/wiki/Hardware_abstraction)s. Exposure to [RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system) is minimal.
+    * Microchip ([8-bit](https://www.microchip.com/design-centers/8-bit) and [16-bit](https://www.microchip.com/design-centers/16-bit) PIC series)
+    * Renesas ([RX](https://www.renesas.com/in/en/products/microcontrollers-microprocessors/rx.html), [M16C](https://www.renesas.com/in/en/products/microcontrollers-microprocessors/m16c.html), [R8C](https://www.renesas.com/in/en/products/microcontrollers-microprocessors/r8c.html) series)
+    * Freescale (Now NXP: [S32](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/s32-automotive-platform:S32), [S12](https://www.nxp.com/products/processors-and-microcontrollers/additional-processors-and-mcus/8-16-bit-mcus/16-bit-s12-and-s12x-mcus:S12S12X) series)
+    * Texas Instruments ([C2000](http://www.ti.com/microcontrollers/c2000-real-time-control-mcus/products.html) based [Piccolo](http://www.ti.com/microcontrollers/c2000-real-time-control-mcus/piccolo-entry-performance/overview.html), [Delfino](http://www.ti.com/microcontrollers/c2000-real-time-control-mcus/delfino-premium-performance/overview.html) series)
+    * ST Microelectronics ([Nucleo](https://www.st.com/en/evaluation-tools/stm32-mcu-nucleo.html), [Discovery](https://www.st.com/en/evaluation-tools/stm32-mcu-discovery-kits.html?querycriteria=productId=LN1848) boards with [ARM Cortex-M](https://developer.arm.com/products/processors/cortex-m) based [STM32](https://www.st.com/en/microcontrollers/stm32-32-bit-arm-cortex-mcus.html) series)
+* Comfortable working with the corresponding IDEs or [makefiles](https://www.gnu.org/software/make/manual/html_node/Introduction.html) and the required toolchains.
+* Comfortable with MATLAB/Simulink based code generation tools and their workflows.
+## Electric Machine Design Tools
+* Worked extensively with [Flux](https://altairhyperworks.com/product/flux), [FEMM](http://www.femm.info/wiki/HomePage), [SPEED](https://ieeexplore.ieee.org/abstract/document/757901), [Onelab](http://www.onelab.info/) and [rlib](https://motorrlib.gitlab.io/)
+* Worked reasonably with [MotorCAD](https://www.motor-design.com/motor-cad-software/)
+
+
+# Professional Associations
+* Licensed [Amateur (Ham) Radio](http://vigyanprasar.gov.in/science-communication-programs/ham-radio/) Operator ([VU3GML](http://www.wpc.dot.gov.in/exam_amatr.asp))
+* Life member of [Magnetics Society of India](http://msi.org.in/)
+* Life member of [Advanced Computing and Communications Society](http://accsindia.org/)
+* Member of [IEEE](https://www.ieee.org/)
+* Ex-member of [SAE](https://www.saeindia.org/)
