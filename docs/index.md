@@ -3,7 +3,7 @@
 My name is [Raghu](https://in.linkedin.com/in/raghunathkumar) ([/rʌgu:/](https://raghu-rana.gitlab.io/supportFiles/0_Raghu.wav)), a.k.a. RaNa ([/rʌ:a-na/](https://raghu-rana.gitlab.io/supportFiles/1_RaNa.wav)). I graduated from [IIT Madras](http://www.iitm.ac.in/) in 2007 with a [dual degree](https://www.iitm.ac.in/academic-programmes) (B.Tech. + M.Tech.) in [Electrical Engineering](http://www.ee.iitm.ac.in/). 
 
 ## Professional Experience
-### [TVS Motor](https://www.tvsmotor.com/) [Sep 2015 - Present]
+### [TVS Motor](https://www.tvsmotor.com/) [Sep15-On Going]
 
 **Electric Machines &  Optimization**
 
