@@ -1,8 +1,8 @@
-## About me
+# [About me](https://in.linkedin.com/in/raghunathkumar)
 
-My name is [Raghu](https://in.linkedin.com/in/raghunathkumar) ([/rʌgu:/](../supportFiles/0_Raghu.wav)), a.k.a. RaNa ([/rʌ:a-na/](https://raghu-rana.gitlab.io/../supportFiles/1_RaNa.wav)). I graduated from [IIT Madras](http://www.iitm.ac.in/) in 2007 with a [dual degree](https://www.iitm.ac.in/academic-programmes) (B.Tech. + M.Tech.) in [Electrical Engineering](http://www.ee.iitm.ac.in/). 
+My name is [Raghu](../supportFiles/0_Raghu.wav) (/rʌgu:/), a.k.a. [RaNa](https://raghu-rana.gitlab.io/../supportFiles/1_RaNa.wav) (/rʌ:a-na/). I graduated from [IIT Madras](http://www.iitm.ac.in/) in 2007 with a [dual degree](https://www.iitm.ac.in/academic-programmes) (B.Tech. + M.Tech.) in [Electrical Engineering](http://www.ee.iitm.ac.in/). 
 
-## Professional Experience
+# Professional Experience
 ### [TVS Motor](https://www.tvsmotor.com/) [Sep15-On Going]
 
 **Electric Machines &  Optimization**
@@ -45,7 +45,7 @@ I worked on [Anti-Lock Braking System](https://en.wikipedia.org/wiki/Anti-lock_b
 I supported the motor controller team in developing their in-house project titled Next Generation Low Cost Motor Controller (NGLCMC). Created Simulink models of Sine and Space-Vector PWM for MBD and simulations. Contributed to hardware development of gate driver circuits and PCB development. Participated in board bring-up and functional testing of the hardware to run the motor successfully.
 
 
-## Computer Skills
+# Skills
 ### Languages
 * Very comfortable with C for modular embedded applications to implement complex control algorithms and write device drivers in bare metal code.
     * Ported the complete BMS project code from old to new µC of new manufacturer in less than 5 days.
@@ -67,7 +67,7 @@ I supported the motor controller team in developing their in-house project title
 * Worked reasonably with [MotorCAD](https://www.motor-design.com/motor-cad-software/)
 
 
-## Professional Associations
+# Professional Associations
 * Licensed [Amateur (Ham) Radio](http://vigyanprasar.gov.in/science-communication-programs/ham-radio/) Operator ([VU3GML](http://www.wpc.dot.gov.in/exam_amatr.asp))
 * Life member of [Magnetics Society of India](http://msi.org.in/)
 * Life member of [Advanced Computing and Communications Society](http://accsindia.org/)
