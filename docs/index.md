@@ -40,7 +40,7 @@ I worked on [Anti-Lock Braking System](https://en.wikipedia.org/wiki/Anti-lock_b
 
 ### [Honeywell](https://www.honeywell.com/worldwide/en-in) [May06-May07]
 
-8*Motor Controller**
+**Motor Controller**
 
 I supported the motor controller team in developing their Next Generation Low Cost Motor Controller (NGLCMC). Created Matlab models of Sine and Space Vector PWM for MBD and simulations. Contributed to hardware development of gate driver circuits and PCB development. Participated in board bring-up and functional testing of the hardware.
 
