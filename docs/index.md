@@ -17,13 +17,13 @@ I worked on understanding the basic principles of machine learning and implement
 
 **Bootloader**
 
-I worked on Bootloader and it resulted in a technical presentation at [SAE World Congress](https://www.sae.org/wcx) 2017 in Detroit (MI, USA).
+I worked on Bootloader specific to automotive systems with constrained memory resources and it resulted in a technical presentation at [SAE World Congress](https://www.sae.org/wcx) 2017 in Detroit (MI, USA).
 
 ### [MathWorks](https://in.mathworks.com/) [Jun14-Sep15]
 
 **Code Generation with Bootloader**
 
-I worked on [Embedded Coder Support Package](https://www.mathworks.com/help/supportpkg/armcortexm/index.html) for ST Microelectronics ([Nucleo](https://www.st.com/en/evaluation-tools/stm32-mcu-nucleo.html) and [Discovery](https://www.st.com/en/evaluation-tools/stm32-mcu-discovery-kits.html)) and Texas Instruments ([Piccolo F2869](http://www.ti.com/product/TMS320F28069)) processors. This effort resulted in successful implementation of a [modular two-stage bootloader](https://bitbucket.org/saras152/bootloader/wiki/blstages) ([help text](https://in.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/build-for-use-with-bootloader.html), [GUI](https://in.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/model-configuration-parameters-for-stmicroelectronics-stm32f4-discovery-board.html)) for ARM cortex-M based processors.  My contribution is the checkbox "*[Build for use with bootloader](https://www.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/build-for-use-with-bootloader.html)*" below the Build actions drop down menu in the Target Hardware Resources pane. 
+I worked on [Embedded Coder Support Package](https://www.mathworks.com/help/supportpkg/armcortexm/index.html) for ST Microelectronics ([Nucleo](https://www.st.com/en/evaluation-tools/stm32-mcu-nucleo.html) and [Discovery](https://www.st.com/en/evaluation-tools/stm32-mcu-discovery-kits.html)) and Texas Instruments ([Piccolo F2869](http://www.ti.com/product/TMS320F28069)) processors. This effort resulted in successful implementation of a [modular two-stage bootloader](https://bitbucket.org/saras152/bootloader/wiki/blstages) ([help text](https://in.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/build-for-use-with-bootloader.html), [GUI](https://in.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/model-configuration-parameters-for-stmicroelectronics-stm32f4-discovery-board.html)) for ARM cortex-M based processors.  My contribution is hidden behind the checkbox "*[Build for use with bootloader](https://www.mathworks.com/help/supportpkg/stmicroelectronicsstm32f4discovery/ref/build-for-use-with-bootloader.html)*" below the *Build Actions* drop-down menu in the *Target Hardware Resources* pane. 
 
 
 ### [TVS Motor](https://www.tvsmotor.com/) [Aug07-Jun14]
