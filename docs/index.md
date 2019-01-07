@@ -3,7 +3,7 @@
 My name is [Raghu](./Raghu.wav) ([/rʌgu:/](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)), a.k.a. [RaNa](./RaNa.wav) (/rʌ:a-na/). I graduated from [IIT Madras](http://www.iitm.ac.in/) in 2007 with a [dual degree](https://www.iitm.ac.in/academic-programmes) (B.Tech. + M.Tech.) in [Electrical Engineering](http://www.ee.iitm.ac.in/).
 
 ## Professional Experience
-### [TVS Motor](https://www.tvsmotor.com/) [Sep15-On Going]
+### [TVS Motor](https://www.tvsmotor.com/) [Sep15-Ongoing]
 
 **Electric Machines &  Optimization**
 
