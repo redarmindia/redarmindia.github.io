@@ -44,7 +44,7 @@ I worked on [Anti-Lock Braking System](https://en.wikipedia.org/wiki/Anti-lock_b
 **Motor Controller**
 
 I supported the motor controller team in developing their in-house project titled Next Generation Low Cost Motor Controller (NGLCMC). Created Simulink models of Sine and Space-Vector PWM for MBD and simulations. Contributed to hardware development of gate driver circuits and PCB development. Participated in board bring-up and functional testing of the hardware to run the motor successfully.
- 
+
 
 ## Skills
 ### Languages
