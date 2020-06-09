@@ -75,3 +75,6 @@ I supported the motor controller team in developing their in-house project title
 * Member of [IEEE](https://www.ieee.org/)
     * Regular reviewer on IEEE journal - [TIE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)
 * Ex-member of [SAE](https://www.saeindia.org/)
+
+## Non-Technical Work
+* I worked on the [market modelling](./files/MarketModel.pdf) using agent based modelling. This work resulted in the approval of the paper for [WEAI-2013](https://weai.org/)
