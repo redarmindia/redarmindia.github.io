@@ -78,4 +78,3 @@ I supported the motor controller team in developing their in-house project title
 
 ## Non-Technical Work
 * I worked on the [market modelling](./files/MarketModel.pdf) using agent based modelling. This work resulted in the approval of the paper for [WEAI-2013](https://weai.org/)
-* [PD](./files/DrivingRobot_PitchDeck.pdf)
