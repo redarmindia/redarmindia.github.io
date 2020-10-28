@@ -1,10 +1,10 @@
 image: python:3.8-buster #python:alpine
-
+#redarmindia.gitlab.io
 before_script:
   - pip install mkdocs
   # Add your custom theme if not inside a theme_dir
   # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-  # - pip install mkdocs-material
+  # - pip install mkdocs-material 
 
 pages:
   script:
