@@ -1,4 +1,8 @@
+
+
+
 ## About 
-Research, Engineer & Develop AI & Robotics for Mobility
+
+Research, Engineer & Develop the AI & Robotics for Mobility
 
 Coming up soon.
