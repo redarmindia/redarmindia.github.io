@@ -1,5 +1,4 @@
-
-![Research, Engineer & Develop the AI & Robotics for Mobility](redarmlogo.png "REDARM")
+![Research, Engineer & Develop the AI & Robotics for Mobility](redarmbanner.png "REDARM")
 
 ## About 
 
