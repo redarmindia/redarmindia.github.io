@@ -1,7 +1,0 @@
-site_name: REDARM
-site_url : https://redarmindia.gitlab.io
-site_favicon: favicon.ico
-theme:
-  name: null
-  custom_dir: 'cinder'
-
