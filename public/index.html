@@ -147,6 +147,13 @@
                     </div>
                     <video autoplay="" loop="" muted poster="img/devimage.png">
                         <source src="videos/redarmvid.mp4" type="video/mp4">
+						<!-- took help from kdenlive-20.04.0_standalone\bin\ffmpeg.exe -i ezgif.com-gif-maker.mp4 -c:v libx264 -an -b:v 700k output-700k.mp4, https://ezgif.com/crop-video/ and KDENlive 
+
+						ffmpeg -i input.mp4 -c:v libvpx-vp9 -an -b:v 1000k -s hd720 output-1000k.webm
+						ffmpeg -i input.mp4 -c:v libx264 -an -b:v 1000k -s hd720 output-1000k.mp4						
+						-s nhd   for 640x360 
+						-s hd720 for 1280x720
+						-->
                         Your browser does not support the video tag.
                     </video>
                 </div>
