@@ -1012,6 +1012,7 @@ a.active:after {
   transform: translate(-50%, -50%);
   min-width: 100%;
   min-height: 100%;
+  visibility: visible !important;
 }
 
 #video-container .video-overlay {
