@@ -1016,9 +1016,9 @@ a.active:after {
 
 #video-container .video-overlay {
   z-index: 9999;
-  background: rgba(0,0,0,0.8); /*rgba(65,105,225,0.5);*/
+  background: rgba(255,255,255,0.8); /*rgba(65,105,225,0.5);*/
   background-image: url('../img/mask_transparent_logo.png');
-  background-size: 6px 6px;
+  background-size: 4px 4px;
   width: 100%;
 }
 
@@ -1077,7 +1077,7 @@ a.active:after {
 
 #video-container .video-content .inner h5 {
   font-size: 64px;
-  color: #ffffff; /* #4169e1;*/
+  color:  rgba(0,0,0,0.8);
   line-height: 80px;
   font-weight: 800;
   text-align: center;
