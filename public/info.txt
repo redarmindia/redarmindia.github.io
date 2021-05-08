@@ -1,0 +1,19 @@
+This same folder contents on my PC are synched to both the following repos
+
+redarmindia.gitlab.io on gitlab
+redarmindia.github.io on github
+
+The parent folder is synched to gitlab, the "public" folder is synched to github. DO NOT delete either of the .git folders or their contents. 
+
+the same html pages are shown when the following websites are accessed. 
+
+[gitlab]
+redarm.in
+www.redarm.in
+redarm.xyz
+www.redarm.xyz
+redarm.tech
+www.redarm.tech
+
+[github]
+www1.redarm.in
