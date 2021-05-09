@@ -16,4 +16,4 @@ redarm.tech
 www.redarm.tech
 
 [github]
-www1.redarm.in
+ww.redarm.tech  (ww.redarm.in,www1.redarm.in are already configured in godaddy DNS portal. can just update it on github pages settings)
