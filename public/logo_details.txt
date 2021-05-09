@@ -1,0 +1,54 @@
+https://www.canva.com/colors/color-meanings/royal-blue/
+65 105 225, #4169e1
+websafe #3366cc
+rgba(65,105,225,1); 
+Royal blue is an eye-catching, versatile color. Because of its bright hue, it can create too much intensity when paired with certain shades of red. According to color psychology, blue is associated with trustworthiness and reliability.  royal blue’s bright with vivid hue. Other common associations for blue include peacefulness—blue is the color of the sky and the ocean, both of which are said to promote feelings of tranquility; as a result, the color blue is said to have the same effect.
+
+
+https://www.canva.com/colors/color-meanings/red-orange/
+255 83 73, #ff5349
+websafe #ff6633
+rgba(255,83,73,1); 
+red orange is a cross between the two hues. More red than orange, it is bright and exciting and associated with physical energy. It is playful, energetic, and engaging. Red orange can also symbolize health and vitality. Directly across red orange in the color wheel, you’ll find blue and green hues; combined, these make for an eye-catching palette.
+
+
+Red and blue logos evoke feelings of strength, reliability, and trust. Pepsi and American Airlines are great examples of companies that use this logo color combination. Because both red and blue are primary colors, their combination adds a simple, straightforward appeal. To amplify these traits, try keeping the rest of your logo's design similarly simple and straightforward. By doing so, you can build a greater sense of trust in your brand.
+
+
+
+
+
+
+standardized method to make the logo (256x256)
+1. inverted triangle - red border (ff5349) 6 pixel width, no fill, overall width set to 256.
+2. place at x=0, y=34.297. this sets the bottom peak align with the bottom border of the canvas
+3. place a circle with 256px width at x=0, y=0, no border, fill with blue (4169e1).
+4. go to circle mode, and set the start angle to 270, end angle to 90. 
+5. make a rectangle with no border, 12 pixel width, 300px height and place at x=122 and y=0;
+6. take a difference of the circle and the rectangle. 
+7. place a circle with no border, 24 px radius and place at x=134,y=4.4
+8. make a division and delete unwanted projection. 
+9. union both the cut purces to create a nice fillet. 
+9. place a circle with no border, 24px radius and place at x=134, y=203.6
+10. make a division and delete unwanted projection. 
+11. union both the cut purces to create a nice fillet. 
+12. copy and paste the half circle and then rotate by 180. 
+13. change the color to red(ff5349) and place at x=0,y=4.4
+14. select both the half circles and group them together. 
+15. select thr grouped elements, and then scale them to 230 width.
+16. place the grouped elements at x=13,y=0;
+
+standardized method to make the banner (1024x256)
+17. take the above logo, and change the canvas size to 1024x256.
+18. Create the text REDARM all in capitals with Segoe UI (normal), 150 pt font size with -2 space between letters. 
+19. place the text at x=275,y=58
+20. create multiple layers for text - one each for one color (red, blue, white)
+
+generation of standard size images
+21. generate bannerimg.png from 'page' settings at 192x48 size through export to png setting
+22. hide the text and change back to 256x256 size. 
+23. export to png  custom settings at x0 to -116, x1 to 372 (final width is 488), y0 to 0, y1 to 256 (final height is 256)
+24. set the image size to 488x256. generate socialbanner.png
+25. from 'page' settings, set image size to 16x16 and generate favicon.png
+26. set image size to 64x64 and generate smallcirclelogo.png
+27. set image size to 512x512 and generate bigcirclelogo.png
