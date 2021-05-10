@@ -3,6 +3,9 @@ image: alpine:latest
 
 pages:
   stage: deploy
+  variables:
+    FF_USE_FASTZIP: "true"
+    ARTIFACT_COMPRESSION_LEVEL: "fastest"
   script:
   - echo 'Nothing to do...'
   artifacts:
