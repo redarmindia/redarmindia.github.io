@@ -833,7 +833,7 @@ a.active:after {
 .banner .center-image .scroll-down {
   display: inline-block;
   position: absolute;
-  bottom: 120px;
+  top: 700px;
   left: 50%;
   transform: translateX(-50%);
 
@@ -1303,7 +1303,9 @@ footer .footer-item ul.social-icons li a:hover {
     left: 00%;
     transform: translate(-00%, -0%) 
   }
-  
+.banner .center-image .scroll-down {
+  top: 270px!important;
+}
   .banner .center-image .inside-content img {
     height: 20%!important;
    }
@@ -1467,6 +1469,9 @@ footer .footer-item ul.social-icons li a:hover {
     width: 100%;
   }
 
+.banner .center-image .scroll-down {
+  top: 400px;
+}
   footer {
     text-align: center;
     padding: 100px 0px 40px 0px;
