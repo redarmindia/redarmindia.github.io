@@ -102,9 +102,9 @@ p {
 #mysocial-icons {
   padding:0;
   position: fixed;
-  top: 10vh;
+  top: 8px;
+  right: 550px;
   transform: translateY(-0%);
-  left:5px;
   z-index: 199;
 }
 .mysocial-icons {
@@ -123,12 +123,12 @@ p {
   line-height:1px;
   text-align:center;
   background: transparent;
-  color: rgba(65,105,225,0.4);
+  color: rgba(65,105,225,0.2);
   font-size:20px;
 }
 .mysocial-icons li a:hover {
   color:rgba(65,105,225,1);
-  background: #FFF;
+
 }
 
 
@@ -1428,7 +1428,11 @@ footer .footer-item ul.social-icons li a:hover {
   .contact-intro {
     text-align: left!important;
   }
+#mysocial-icons {
 
+  top: 10px;
+  right: 100px;
+}
   .services .service-item {
 
 	padding: 5px;
