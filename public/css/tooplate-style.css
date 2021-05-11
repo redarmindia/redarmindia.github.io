@@ -118,17 +118,43 @@ p {
 }
 .mysocial-icons li a {
   width:30px;
-  height:30px;
+  height:28px;
   display:inline-block;
-  line-height:30px;
+  line-height:28px;
   text-align:center;
-  background: #FFF;
-  color: rgba(65,105,225,0.5);
-  font-size:18px;
+  background: transparent;
+  color: rgba(65,105,225,1);
+  font-size:28px;
 }
 .mysocial-icons li a:hover {
   color:rgba(65,105,225,1);
+  background: #FFF;
 }
+
+
+
+#myscroll {
+	padding:0;
+  position: fixed;
+  bottom: 0%;
+  transform: translateY(-50%);
+  right:0;
+  z-index: 199;
+}
+.myscroll {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+.myscroll img{
+  background : transparent;
+}
+.myscroll img:hover{
+  background: #FFF;
+}
+
+
 #header {
   width: 100%;
   overflow: visible;
