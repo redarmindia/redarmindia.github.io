@@ -99,9 +99,36 @@ p {
   *zoom: 1;
 }
 
-
-
-
+#mysocial-icons {
+  padding:0;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right:0;
+  z-index: 199;
+}
+.mysocial-icons {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.mysocial-icons li {
+  display: block;
+  margin: 10px 0px;
+}
+.mysocial-icons li a {
+  width:30px;
+  height:30px;
+  display:inline-block;
+  line-height:30px;
+  text-align:center;
+  background: #FFF;
+  color: rgba(65,105,225,0.5);
+  font-size:18px;
+}
+.mysocial-icons li a:hover {
+  color:rgba(65,105,225,1);
+}
 #header {
   width: 100%;
   overflow: visible;
