@@ -830,6 +830,14 @@ a.active:after {
   overflow: hidden;
   text-align: left;
 }
+.banner .center-image .scroll-down {
+  display: inline-block;
+  position: absolute;
+  bottom: 120px;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
 
 .banner .right-content {
   background-color: #fff;
@@ -1284,9 +1292,9 @@ footer .footer-item ul.social-icons li a:hover {
   
   .banner .center-image .inside-content {
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 00%;
-    transform: translate(-00%, -00%) 
+    transform: translate(-00%, -0%) 
   }
   
   .banner .center-image .inside-content img {
