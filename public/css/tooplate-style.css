@@ -839,6 +839,13 @@ a.active:after {
 
 }
 
+.banner .center-image .scroll-down img{
+  height: 24px!important;
+  overflow: hidden;
+  text-align: left;
+
+}
+
 .banner .right-content {
   background-color: #fff;
   height: 800px;
@@ -1045,7 +1052,7 @@ a.active:after {
 
 #video-container .video-overlay {
   z-index: 9999;
-  background: rgba(255,255,255,0.8); /*rgba(65,105,225,0.5);*/
+  background: rgba(255,255,255,0.9); /*rgba(65,105,225,0.5);*/
   background-image: url('../img/mask_transparent_logo.png');
   background-size: 4px 4px;
   width: 100%;
@@ -1059,7 +1066,7 @@ a.active:after {
   content: "";
   background-image: url('../img/smallcirclelogo.png');
   background-repeat: no-repeat;
-  background-size: 48px 48px;
+  background-size: 24px 24px;
   position: absolute;
   top : 0px;
   right: 0px;

@@ -16,8 +16,8 @@
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="scrolldown.svg"
    inkscape:export-filename="E:\work\driving robot\folders\webpage\redarmindia.gitlab.io\public\img\mouse-scroll.png"
-   inkscape:export-xdpi="6.4146485"
-   inkscape:export-ydpi="6.4146485">
+   inkscape:export-xdpi="30.719999"
+   inkscape:export-ydpi="30.719999">
   <defs
      id="defs2">
     <linearGradient
@@ -241,9 +241,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6819624"
-     inkscape:cx="538.90312"
-     inkscape:cy="-61.405768"
+     inkscape:zoom="0.48222024"
+     inkscape:cx="414.17529"
+     inkscape:cy="120.16339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -293,12 +293,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.8083px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:-2.11667px;fill:#ff5349;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-0.59169501"
-       y="23.356689"
+       y="23.885857"
        id="text877"><tspan
          sodipodi:role="line"
          id="tspan875"
          x="-0.59169501"
-         y="23.356689"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8083px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#4169e1;fill-opacity:0.5;stroke-width:0.264583">SCROLL DOWN</tspan></text>
+         y="23.885857"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8083px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#000000;fill-opacity:0.3;stroke-width:0.264583">SCROLL DOWN</tspan></text>
   </g>
 </svg>
