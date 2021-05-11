@@ -102,9 +102,9 @@ p {
 #mysocial-icons {
   padding:0;
   position: fixed;
-  top: 30vh;
-  transform: translateY(-40%);
-  right:0;
+  top: 10vh;
+  transform: translateY(-0%);
+  left:5px;
   z-index: 199;
 }
 .mysocial-icons {
@@ -117,14 +117,14 @@ p {
   margin: 10px 0px;
 }
 .mysocial-icons li a {
-  width:30px;
-  height:28px;
+  width:22px;
+  height:22px;
   display:inline-block;
-  line-height:28px;
+  line-height:1px;
   text-align:center;
   background: transparent;
   color: rgba(65,105,225,0.4);
-  font-size:28px;
+  font-size:20px;
 }
 .mysocial-icons li a:hover {
   color:rgba(65,105,225,1);
