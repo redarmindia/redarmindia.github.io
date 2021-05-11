@@ -860,7 +860,7 @@ a.active:after {
 .banner .center-image .scroll-down {
   display: inline-block;
   position: absolute;
-  top: 700px;
+  top: 600px;
   left: 50%;
   transform: translateX(-50%);
 
