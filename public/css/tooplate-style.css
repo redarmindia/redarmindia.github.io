@@ -136,7 +136,7 @@ p {
 #myscroll {
 	padding:0;
   position: fixed;
-  bottom: 0%;
+  bottom: 15%;
   transform: translateY(-50%);
   right:0;
   z-index: 199;
