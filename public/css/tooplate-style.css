@@ -102,8 +102,8 @@ p {
 #mysocial-icons {
   padding:0;
   position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 30vh;
+  transform: translateY(-40%);
   right:0;
   z-index: 199;
 }
@@ -136,7 +136,7 @@ p {
 #myscroll {
   padding:0;
   position: fixed;
-  bottom: 10vh;
+  bottom: 12vh;
   transform: translateY(-0%);
   right:0;
   z-index: 199;
@@ -150,9 +150,11 @@ p {
 
 .myscroll img{
   background : transparent;
+  opacity:0.3;
 }
 .myscroll img:hover{
   background: #FFF;
+  opacity:1;
 }
 
 
