@@ -1428,6 +1428,13 @@ footer .footer-item ul.social-icons li a:hover {
   max-width: 00%!important;
   overflow: hidden;
 }
+
+.template-presentation .right-content h4 {
+  font-size: 14px!important;
+  margin-top: 10px!important;
+  line-height: 18px!important;
+}
+
   #video-container  {
 
   height: 100vh;
@@ -1551,6 +1558,11 @@ height:100vh;
 .template-presentation .right-content img {
   max-width: 00%!important;
   overflow: hidden;
+}
+.template-presentation .right-content h4 {
+  font-size: 16px;
+  margin-top: 15px;
+  line-height: 20px;
 }
   .left-right-image .right-image {
     text-align: left;
