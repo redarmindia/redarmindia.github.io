@@ -1410,7 +1410,7 @@ footer .footer-item ul.social-icons li a:hover {
   }
   
   .template-presentation {
-  padding-top: 30vh;
+  padding-top: 30vh!important;
   height:100vh;
 }
 
