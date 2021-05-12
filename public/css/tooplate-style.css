@@ -979,7 +979,7 @@ a.active:after {
   max-width:50vw;
   max-height:100vh;
   overflow: hidden;
-  :0;
+
 }
 
 .template-presentation .right-content {
@@ -1420,6 +1420,7 @@ footer .footer-item ul.social-icons li a:hover {
   max-height:50vh!important;
   width:auto;
   height:auto;
+  left:200px;
 }
 
 
@@ -1531,14 +1532,15 @@ footer .footer-item ul.social-icons li a:hover {
   
   .template-presentation {
     text-align: left;
-  padding-top: 15vh;
-  height:100vh;
+  padding-top: 10vh;
+height:100vh;
 }
 
 .template-presentation .left-image img {
 	display:block;
-  max-width:70vw;
-  max-height:100vh;
+  max-width:100vw;
+  max-height:55vh;
+  margin:auto;
 
 }
   .template-presentation .right-content {
