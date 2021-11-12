@@ -8,8 +8,11 @@ pages:
     ARTIFACT_COMPRESSION_LEVEL: "fastest"
   script:
   - echo 'Nothing to do...'
+  - mkdir .public
+  - cp -r docs .public
+  - mv .public public
   artifacts:
     paths:
-    - docs
+    - public
   only:
   - main
