@@ -7,7 +7,6 @@ pages:
     FF_USE_FASTZIP: "true"
     ARTIFACT_COMPRESSION_LEVEL: "fastest"
   script:
-  - echo 'Nothing to do...'
   - mkdir .public
   - cp -r docs .public
   - mv .public public
