@@ -8,7 +8,7 @@ pages:
     ARTIFACT_COMPRESSION_LEVEL: "fastest"
   script:
   - mkdir .public
-  - cp -r docs .public
+  - cp -r docs/* .public
   - mv .public public
   artifacts:
     paths:
